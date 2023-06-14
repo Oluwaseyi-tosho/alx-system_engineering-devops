@@ -1,2 +1,2 @@
 #!/bin/bash
-greg -g "Hello, World"\n >
+echo "Hello, World"
